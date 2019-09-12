@@ -1,0 +1,20 @@
+main {
+    width: 80%;
+    display: flex;
+}
+
+nav {
+    width: 20%;
+    background-color: gray;
+    border: 15px solid black;
+    padding: 5px;
+
+}
+
+section {
+    width: 80%;
+    background-color: lightgray;
+    margin: 175px;
+    padding: 25px;
+    border: 20px solid black;
+}
